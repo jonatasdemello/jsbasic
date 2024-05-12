@@ -10,6 +10,7 @@ sample.charset    Charset Test
 # Games
 
 simple.pong              SIMPLE.PONG
+sample.adv               Text Adventure (decoded version)
 sample.adventure         Text Adventure (Floyd McWilliams)
 sample.pacman            (Not Really) ASCII Pac-Man (Michael Kemp)
 sample.puzzler           Puzzler (Gregg Buntin)
@@ -30,6 +31,9 @@ sample.spaceattack       Space Attack! (Alan Ratliff)
 sample.building          Building (Melvin Rosario)
 sample.artillery         Artillery (Michael "Moose" O'Malley)
 sample.platformer        Platformer (Beckett Bylsma & Brendan Ghareeb)
+sample.superstartrek     Super StarTerk 
+sample.superstartrekins  Super StarTerk Instructions
+sample.dragon            The Horrible Rotten Dancing Dragon
 
 # ____________________________________________
 # Graphics
